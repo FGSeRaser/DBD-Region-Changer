@@ -19,7 +19,7 @@ The application automatically:
 
     Detects the current active region by reading the hosts file on startup and on interval
 
-    Updates ping and status values in place without recreating the list entries
+    Updates ping and status values in place
 
 Use this project as a small utility to experiment with region locking and latency monitoring for Dead by Daylight’s GameLift infrastructure on Windows.
 
