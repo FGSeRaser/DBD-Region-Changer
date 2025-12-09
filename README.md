@@ -22,3 +22,8 @@ The application automatically:
     Updates ping and status values in place without recreating the list entries
 
 Use this project as a small utility to experiment with region locking and latency monitoring for Dead by Daylight’s GameLift infrastructure on Windows.
+
+
+
+![DBD Region Changer](https://i.imgur.com/D6QgrxU.png)
+
