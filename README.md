@@ -25,5 +25,5 @@ Use this project as a small utility to experiment with region locking and latenc
 
 
 
-![DBD Region Changer](https://i.imgur.com/D6QgrxU.png)
+![DBD Region Changer](https://i.imgur.com/VQatvS8.png)
 
