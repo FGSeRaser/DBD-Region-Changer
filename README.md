@@ -1,4 +1,4 @@
-﻿# DBD Region Changer
+# DBD Region Changer
 
 by **[FGSeRaser](https://github.com/FGSeRaser)**
 
