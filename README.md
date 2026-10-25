@@ -1,4 +1,6 @@
-# DBD Region Changer
+﻿# DBD Region Changer
+
+by **[FGSeRaser](https://github.com/FGSeRaser)**
 
 Dead by Daylight Region Changer is a Windows desktop tool that lets you quickly switch the matchmaking region used by the game.
 The app edits the Windows hosts file to block all AWS GameLift ping endpoints and then marks exactly one selected region as “open” by commenting out its entry.
@@ -25,5 +27,10 @@ Use this project as a small utility to experiment with region locking and latenc
 
 
 
-![DBD Region Changer](https://i.imgur.com/VQatvS8.png)
+![DBD Region Changer](https://i.imgur.com/D6QgrxU.png)
 
+## Author
+
+Made by **FGSeRaser**. More projects on GitHub: [github.com/FGSeRaser](https://github.com/FGSeRaser)
+
+The app links to the profile in the top-right corner of the header ("by FGSeRaser · GitHub").
